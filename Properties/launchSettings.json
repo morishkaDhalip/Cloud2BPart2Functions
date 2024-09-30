@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Cloud2BPart2Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7281"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31770,
+      "useSSL": false
+    }
+  }
+}
